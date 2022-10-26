@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class Console {
     public static void main(String[] args) {
 
-        // Aula 28 Console
-
         Scanner ler = new Scanner(System.in);
 
         System.out.println("Digite o seu nome");
