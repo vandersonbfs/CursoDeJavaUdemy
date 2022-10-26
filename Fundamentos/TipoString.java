@@ -31,8 +31,6 @@ public class TipoString {
         System.out.println("Nome " + nome + "\nSobrenome: " + sobreNome + "\nIdade: " + idade + "\nSalario: " + salario
                 + salario + "\n\n");
 
-        System.out.printf("O senhor %s %s tem %d anos de idade e ganha R$ %.2f.", nome, sobreNome, idade, salario);
-
     }
 
 }
