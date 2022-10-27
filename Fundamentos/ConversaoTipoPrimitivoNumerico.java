@@ -12,9 +12,9 @@ public class ConversaoTipoPrimitivoNumerico {
         byte d = (byte) c; // Conversao explicita (CAST)
         System.out.println(d);
 
-        double e 1.99999;
-        int f (int) e;
+        double e = 1.99999;
+        int f = (int) e;
         System.out.println(f);
 
-     }
+    }
 }
