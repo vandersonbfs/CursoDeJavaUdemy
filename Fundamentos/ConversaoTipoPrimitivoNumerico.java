@@ -8,11 +8,13 @@ public class ConversaoTipoPrimitivoNumerico {
         System.out.println(a);
 
         // Fazendo o casting
-        float b = (float) 1.123; // Conversao explicita (CAST)
+        // Conversao explicita (CAST)
+        float b = (float) 1.123;
         System.out.println(a);
 
         final int c = 340;
-        byte d = (byte) c; // Conversao explicita (CAST)
+        // Conversao explicita (CAST)
+        byte d = (byte) c;
         System.out.println(d);
 
         double e = 1.99999;
