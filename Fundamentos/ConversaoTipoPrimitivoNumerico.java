@@ -1,7 +1,10 @@
 public class ConversaoTipoPrimitivoNumerico {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
 
-        double a = 1; // Conversao implicita
+        double a = 1; // Conversant implicita
         System.out.println(a);
 
         // Fazendo o casting
