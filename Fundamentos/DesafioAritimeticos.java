@@ -1,6 +1,6 @@
 public class DesafioAritimeticos {
     public static void main(String[] args) {
-        System.out.println("Aula 44 Desafio operadores aritimeticos";
+        // System.out.println("Aula 44 Desafio operadores aritimeticos";
         double numA = Math.pow(6 * (3 + 2), 2);
         double denA = 3 * 2;
 
