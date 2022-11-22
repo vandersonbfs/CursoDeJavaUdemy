@@ -1,3 +1,5 @@
+package operadores;
+
 public class DesafioAritimeticos {
     public static void main(String[] args) {
         // System.out.println("Aula 44 Desafio operadores aritimeticos";
