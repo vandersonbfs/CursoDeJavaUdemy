@@ -5,8 +5,8 @@ import javax.swing.JOptionPane;
 public class IfElse {
     public static void main(String[] args) {
         // Aula 65 Condicional IF e Else
-
-        String valor = JOptionPane.showInputDialog("Informe o número:");
+        String valor = JOptionPane.showInputDialog(
+                "Informe o número:");
         int numero = Integer.parseInt(valor);
 
         if (numero % 2 == 0) {
