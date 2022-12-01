@@ -12,8 +12,8 @@ public class If {
         double media = entrada.nextDouble();
 
         if (media <= 10 && media >= 7.0) {
-            System.out.println("Aprovado!");
-            System.out.println("Parabéns!");
+            System.out.println("Aprovado, Parabéns!");
+            System.out.println("");
         } else {
             System.out.println("Reprovado!");
         }
