@@ -1,4 +1,4 @@
-package Condicionais;
+package Controle;
 
 import java.util.Scanner;
 
