@@ -16,9 +16,7 @@ public class DasafioWhile {
             if (nota <= 10 && nota >= 0) {
                 total += nota;
                 quantidadeDeNotas++;
-
             }
-
         }
         double media = total / quantidadeDeNotas;
         System.out.println("Mèdia = " + media);
